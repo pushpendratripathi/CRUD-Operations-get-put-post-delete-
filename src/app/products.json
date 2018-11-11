@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "jeans1244444",
+      "color": "yellow11111",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "hat",
+      "color": "blue"
+    },
+    {
+      "name": "tripti tripathi",
+      "color": "pink",
+      "id": 4
+    }
+  ]
+}
