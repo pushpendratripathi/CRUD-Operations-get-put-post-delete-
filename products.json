@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "hat",
+      "color": "blue"
+    },
+    {
+      "id": 4,
+      "name": "tripti tripathi",
+      "color": "pink"
+    },
+    {
+      "name": "era",
+      "color": "aaa",
+      "id": 5
+    },
+    {
+      "name": "",
+      "color": "",
+      "id": 6
+    }
+  ]
+}
